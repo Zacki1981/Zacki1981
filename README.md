@@ -2,7 +2,7 @@
 
 👀 I’m interested in to become a full stack developer.
 
-🌱 I’m currently learning Multi platform Application Developer.
+🌱 I’m currently learning Multiplatform and Web Application Developer.
 
 💞️ I’m looking to collaborate on new projects.
 
